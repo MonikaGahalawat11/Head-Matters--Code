@@ -25,5 +25,6 @@ List of parameters:
   <li> nAction is the size of vector for action units; as we extract 17 action units from openface </li>
   </ol>
   
-All the needed sample data to run regression code is available in the Folder "Data_For_Regression_Code" .
+All the needed sample data to run regression code is available in the Folder "Data_For_Regression_Code". 
+
 Sample data with multiple example files for Video level analysis is available in the folder "Video_level". It contains two folders: "AU_10fps" (for action units) and "Kinemes" (for kineme files) and csv file for labels. 
