@@ -1,5 +1,5 @@
 # Head-Matters--Code
-Preprocessing -- We've used openface(https://github.com/TadasBaltrusaitis/OpenFace) to extract pose angles anad action units for kineme and AU generation.
+Preprocessing -- We've used openface(https://github.com/TadasBaltrusaitis/OpenFace) to extract pose angles and action units for kineme and AU generation.
 
 Model Architecture -- We've done Chunk level and video level analysis for both the datasets MIT and FICS. For more details, please refer to paper.
 
