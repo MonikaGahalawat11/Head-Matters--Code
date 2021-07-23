@@ -24,3 +24,5 @@ List of parameters:
   <li> seqLen defines the length/size of each chunk (seqLen for the datasets varies as per chunk size) </li>
   <li> nAction is the size of vector for action units; as we extract 17 action units from openface </li>
   </ol>
+  
+To Run the Regression Code, access the Folder "Data_For_Regression". All the needed sample data to run regression code is available in the Folder "Data_For_Regression" .
