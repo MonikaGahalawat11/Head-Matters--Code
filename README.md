@@ -25,4 +25,4 @@ List of parameters:
   <li> nAction is the size of vector for action units; as we extract 17 action units from openface </li>
   </ol>
   
-To Run the Regression Code, access the Folder "Data_For_Regression". All the needed sample data to run regression code is available in the Folder "Data_For_Regression_Code" .
+All the needed sample data to run regression code is available in the Folder "Data_For_Regression_Code" .
